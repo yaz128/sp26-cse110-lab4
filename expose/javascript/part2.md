@@ -48,24 +48,24 @@ F. true
 15. == compares values and does type conversion. === compares both value and type without conversion.
 
 16. 
-`
+```
 for(let key in statistics){
     if(key[0] === 'r' || statistics[key] % 2 === 1){
         console.log(statistics[key]);
     }
 }
-`
+```
 
 17. It will return [2, 4, 6]. The callback function multiplies each number by 2.
 
 18. 
-`
+```
 setInterval(function() {
   let d = new Date();
   let time = d.toLocaleTimeString();
   console.log(time);
 }, 1000);
-`
+```
 
 19. 
 Output:
