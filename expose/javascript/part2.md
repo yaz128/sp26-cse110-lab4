@@ -41,8 +41,8 @@ H. NaN
 A. true  
 B. false  
 C. true  
-D. false  
-E. false
+D. false    
+E. false  
 F. true
 
 15. == compares values and does type conversion. === compares both value and type without conversion.
@@ -68,7 +68,7 @@ setInterval(function() {
 ```
 
 19. 
-Output:
+Output:<br>
 1<br>
 4<br>
 3<br>
