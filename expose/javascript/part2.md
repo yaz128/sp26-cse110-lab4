@@ -69,9 +69,8 @@ setInterval(function() {
 
 19. 
 Output:
-1
-4
-3
-2
-
+1<br>
+4<br>
+3<br>
+2<br>
 1 and 4 run first. setTimeout with 0 runs next, then setTimeout with 1000 runs last.
